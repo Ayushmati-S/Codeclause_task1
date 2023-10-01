@@ -1,1 +1,2 @@
 # Codeclause_task1
+A URL shortener in Python is a program or service that takes a long URL as input and generates a shorter version of it. It typically involves using a unique identifier or encoding scheme to create a compact representation of the original URL. Users can then share this shortened URL, and when someone clicks on it, they are redirected to the original, longer URL. Python libraries like pyshorteners or custom code can be used to implement a URL shortener.
